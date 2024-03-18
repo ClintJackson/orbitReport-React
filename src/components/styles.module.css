@@ -4,6 +4,9 @@ p {
   text-align: center;
 }
 
+p{
+  font-size: large;
+}
 button {
   background-color: #5c94ce;
   border-radius: 15px;
